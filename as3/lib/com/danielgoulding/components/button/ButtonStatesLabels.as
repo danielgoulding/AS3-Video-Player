@@ -1,0 +1,1 @@
+package com.danielgoulding.components.button {	/**	 * @author danielgoulding	 */	public class ButtonStatesLabels {				public var out : String = "out";		public var over : String = "over";		public var down : String = "down";		public var selected : String = "selected";		public var inactive : String = "inactive";			}}
